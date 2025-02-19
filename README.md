@@ -74,7 +74,7 @@ SELECT * FROM users ORDER BY name DESC;
 ```
 
 `Cкриншоты
-![docker-node.png](https://github.com/DavyRoy/docker/blob/main/my-node/images/docker-node.png)`
+![Скриншот](ссылки на скриншот)`
 
 ---
 
